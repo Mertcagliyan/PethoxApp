@@ -53,4 +53,4 @@ The codebase follows the **MVVM (Model-View-ViewModel)** separation principles:
 ## 📄 License
 
 **GNU General Public License v3.0**
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](https://github.com/Mertcagliyan/PethoxApp?tab=GPL-3.0-1-ov-file) file for details.
